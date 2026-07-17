@@ -1,6 +1,6 @@
-# Wallet
+# Mobi Wallet
 
-Wallet is a mobile application built with **React Native** using **Expo**, with a **Node.js** backend.  
+Mobi Wallet is a mobile application built with **React Native** using **Expo**, with a **Node.js** backend.  
 The primary language in this repository is **JavaScript** (≈98.8%), with a small portion categorized as **Other** (≈1.2%).
 
 ## Tech Stack
